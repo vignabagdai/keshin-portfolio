@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="68px" viewBox="0 0 90 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>UX&amp;UI@3x</title>
+    <g id="🖥-Website-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-Home-" transform="translate(-588.000000, -667.000000)">
+            <g id="Group-5" transform="translate(0.000000, 112.000000)">
+                <g id="1.-Hero-Section" transform="translate(160.000000, 272.000000)">
+                    <g id="UX&amp;UI" transform="translate(428.000000, 283.000000)">
+                        <polygon id="Path" fill-opacity="0.603775131" fill="#F65D2B" fill-rule="nonzero" points="5.303 28.672 9.16 18.384 77.742 0 90 45.762 7.038 68 0 41.726"></polygon>
+                        <polygon id="Path" fill-opacity="0.403775" fill="#F65D2B" fill-rule="nonzero" points="5.303 28.672 9.16 18.384 77.742 0 90 45.762 7.038 68 0 41.726"></polygon>
+                        <g id="Group" transform="translate(45.331148, 34.535638) rotate(-15.000000) translate(-45.331148, -34.535638) translate(13.331148, 22.035638)" fill="#FFFFFF" fill-rule="nonzero" font-family="Poppins-ExtraBold, Poppins" font-size="18" font-weight="700">
+                            <text id="UI-&amp;-UX">
+                                <tspan x="2.95970213e-13" y="19">UI &amp; UX</tspan>
+                            </text>
+                        </g>
+                        <polygon id="Path" fill-opacity="0.6" fill="#EB4F1C" points="20 25.54 0 42 8.615 19"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
